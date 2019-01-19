@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+scan: 
+当此属性设置为true时，配置文件如果发生改变，将会被重新加载，默认值为true。
+scanPeriod: 
+设置监测配置文件是否有修改的时间间隔，如果没有给出时间单位，默认单位是毫秒。当scan为true时，此属性生效。默认的时间间隔为1分钟。
+debug: 
+当此属性设置为true时，将打印出logback内部日志信息，实时查看logback运行状态。默认值为false。
+-->
+<configuration debug="false" scan="true" scanPeriod="30 seconds">
+    <!-- 日志文件的根目录-->
+    <property name="LOG_HOME" value="${user.home}/logs"/>
+    <!--
+     level: 用来设置打印级别，大小写无关：TRACE, DEBUG, INFO, WARN, ERROR, ALL 和 OFF，不能设置为INHERITED或者同义词NULL。 
+     默认是DEBUG。
+     -->
+    <property name="LEVEL" value="DEBUG"/>
+    <!--应用程序名称 -->
+    <property name="appName" value="test"/>
+
+    <property name="PATTERN" value="%date -[%thread] %highlight(%-5level) %cyan(%logger{15}) - %msg %n"/>
+    <!-- Insert the current time formatted as "yyyyMMdd'T'HHmmss" under
+       the key "bySecond" into the logger context. This value will be
+       available to all subsequent configuration elements.
+       把当前时间格式化输出成"yyyyMMdd'T'HHmmss"格式，以名称为bySecond的加入logContext中，
+       此配置适用于全局
+
+       -->
+    <timestamp key="bySecond" datePattern="yyyyMMdd'T'HHmmss"/>
+
+    <!-- 控制台日志输出-->
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <!-- encoders are assigned the type
+             ch.qos.logback.classic.encoder.PatternLayoutEncoder by default -->
+        <encoder>
+            <pattern>${PATTERN}</pattern>
+        </encoder>
+    </appender>
+
+
+    <!-- 配置某一个类是以何种形式输出日志 -->
+    <!--<logger name="org.lyrk.accp8.s2.chapter.ch05" level="DEBUG" additivity="false">-->
+        <!--<appender-ref ref="STDOUT"/>-->
+    <!--</logger>-->
+
+    <!-- 根目录配置(可以理解为日志的全局配置，把日志输出到何种位置)-->
+    <root level="${LEVEL}">
+        <appender-ref ref="STDOUT"/>
+    </root>
+</configuration>

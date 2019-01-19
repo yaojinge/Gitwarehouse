@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SSm_17:war exploded">
+    <output-path>$PROJECT_DIR$/../SSm_17/out/artifacts/SSm_17_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SSm_17/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SSm_17" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="spring-lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

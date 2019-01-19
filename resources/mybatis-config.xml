@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+    <properties resource="application.properties"/>
+
+    <settings>
+        <setting name="cacheEnabled" value="true"/>
+        <setting name="logImpl" value="SLF4J" />
+    </settings>
+    <typeAliases>
+        <typeAlias type="org.lichuang.ssm.study.commons.entity.Student" alias="Student"/>
+    </typeAliases>
+
+    <plugins>
+        <plugin interceptor="com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor">
+            <!-- 指定使用mysql数据库的分页方式-->
+            <property name="dialectType" value="mysql"/>
+        </plugin>
+        <!--<plugin interceptor="org.lichuang.ssm.study.app.dao.interceptors.PluginExample"/>-->
+    </plugins>
+
+    <environments default="local">
+        <!--生产环境下数据库 xxx.xxx -->
+        <environment id="local">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <!-- 配置连接数据库的属性 -->
+                <property name="driver" value="${driver}"/>
+                <property name="url" value="${url}"/>
+                <property name="username" value="${username}"/>
+                <property name="password" value="${password}"/>
+            </dataSource>
+        </environment>
+        <!-- localhost-->
+    </environments>
+
+
+    <mappers>
+
+        <mapper resource="mapper/StudentMapper.xml"/>
+        <mapper resource="mapper/TeacherMapper.xml"/>
+    </mappers>
+
+</configuration>

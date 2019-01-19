@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style th:inline="css">
+        .[[${role.roleName}]]{
+        background-size: 100px;
+        }
+    </style>
+</head>
+<body>
+<span th:text="${role.roleName}"></span>
+<span th:if="${role.roleName}=='admin'"></span>
+<ul>
+<li th:each="r:${roles}">
+    <span th:text="${r}"></span>
+</li>
+</ul>
+<div th:class="${role.roleName}">class</div>
+
+<div th:attr="roles=${role.roleName}">atter</div>
+
+<script th:inline="javascript">
+alert('[[${role.roleName}]]');
+</script>
+</body>
+</html>

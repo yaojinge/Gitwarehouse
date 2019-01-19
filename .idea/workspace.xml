@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SSm_17:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7eca7cdb-c70f-48a5-989f-8a3a5cc43202" name="Default" comment="初次创建Git">
+      <change afterPath="$PROJECT_DIR$/../SSm_17/.idea/artifacts/SSm_17_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/.idea/dataSources/5ef6cbd2-b4dc-4240-bd0e-509047c78ea5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/.idea/libraries/spring_lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/SSm_17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/resources/mapper/TSysMenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/resources/mapper/TSysRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/resources/mapper/TSysUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/resources/mybatis_generator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/HdrHistogram-2.1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/HikariCP-3.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/LatencyUtils-2.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/aspectjweaver-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/attoparser-2.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/classmate-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/commons-dbcp-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/commons-fileupload-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/commons-pool-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/fastjson-1.2.49.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/hibernate-validator-6.0.13.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/jackson-annotations-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/jackson-core-2.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/jackson-databind-2.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/jackson-datatype-jdk8-2.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/jackson-datatype-jsr310-2.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/jackson-module-parameter-names-2.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/javax.annotation-api-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/jul-to-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/lombok-1.18.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/micrometer-core-1.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/mybatis-3.4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/mybatis-plus-annotation-3.0.7.2-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/mybatis-plus-core-3.0.7.2-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/mybatis-plus-extension-3.0.7.2-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/mybatis-plus-generator-3.0.7.2-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/mybatis-spring-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/mysql-connector-java-5.1.40.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/netty-buffer-4.1.29.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/netty-codec-4.1.29.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/netty-codec-http-4.1.29.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/netty-codec-http2-4.1.29.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/netty-codec-socks-4.1.29.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/netty-common-4.1.29.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/netty-handler-4.1.29.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/netty-handler-proxy-4.1.29.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/netty-resolver-4.1.29.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/netty-transport-4.1.29.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/netty-transport-native-epoll-4.1.29.Final-linux-x86_64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/netty-transport-native-unix-common-4.1.29.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/nio-multipart-parser-1.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/nio-stream-storage-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/reactive-streams-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/reactor-core-3.2.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/reactor-netty-0.8.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/snakeyaml-1.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/spring-aop-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/spring-beans-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/spring-context-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/spring-core-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/spring-expression-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/spring-jcl-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/spring-jdbc-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/spring-security-config-5.1.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/spring-security-core-5.1.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/spring-security-web-5.1.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/spring-tx-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/spring-web-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/spring-webflux-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/spring-webmvc-5.1.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/thymeleaf-3.0.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/thymeleaf-extras-java8time-3.0.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/thymeleaf-spring5-3.0.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/tomcat-embed-core-9.0.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/tomcat-embed-el-9.0.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/tomcat-embed-websocket-9.0.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/unbescape-1.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/spring-lib/validation-api-2.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/LoginAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/SecurityWebApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/app/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/app/Dao/TSysMenuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/app/Dao/TSysRoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/app/Dao/TSysUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/app/PropertiesConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/app/service/MenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/app/service/TSysUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/main/WebFluxFunctionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/main/webFluxApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/pojo/TSysMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/pojo/TSysRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/pojo/TSysUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/reactive/Controllers/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/reactive/handler/PersonHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/reactive/webFluxConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/web/Controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/web/Controller/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/web/WebController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/src/com/web/WebInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/web/WEB-INF/admin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/web/WEB-INF/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/web/WEB-INF/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/web/WEB-INF/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSm_17/web/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SSm_17$webFluxApplication.ic" NAME="webFluxApplication Coverage Results" MODIFIED="1547797785717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.main.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="webFluxApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/main/webFluxApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/web/Controller/IndexController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="729">
+              <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+              <folding>
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#957#958#0" expanded="true" />
+                <element signature="e#983#984#0" expanded="true" />
+                <element signature="e#1054#1055#0" expanded="true" />
+                <element signature="e#1084#1085#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebFluxFunctionApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/main/WebFluxFunctionApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webFluxConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/reactive/webFluxConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2030#2031#0" expanded="true" />
+                <element signature="e#2053#2054#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/reactive/handler/PersonHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/reactive/Controllers/Index.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding>
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#877#878#0" expanded="true" />
+                <element signature="e#922#923#0" expanded="true" />
+                <element signature="e#993#994#0" expanded="true" />
+                <element signature="e#1090#1091#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TSysRole.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/pojo/TSysRole.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1026">
+              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="27" />
+              <folding>
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#726#727#0" expanded="true" />
+                <element signature="e#986#987#0" expanded="true" />
+                <element signature="e#1014#1015#0" expanded="true" />
+                <element signature="e#1286#1287#0" expanded="true" />
+                <element signature="e#1317#1318#0" expanded="true" />
+                <element signature="e#1608#1609#0" expanded="true" />
+                <element signature="e#1681#1682#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SSm_17/resources/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="9" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mybatis-generator-config" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../SSm_17" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/SecurityWebApplicationInitializer.java" />
+        <option value="$PROJECT_DIR$/src/com/app/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/app/service/TSysUserService.java" />
+        <option value="$PROJECT_DIR$/src/com/web/Controller/Controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/src/com/web/Controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/src/com/web/IndexController.java" />
+        <option value="$PROJECT_DIR$/src/com/web/Controller/WebController.java" />
+        <option value="$PROJECT_DIR$/src/com/web/WebController.java" />
+        <option value="$PROJECT_DIR$/src/com/web/WebInitializer.java" />
+        <option value="$PROJECT_DIR$/resources/mapper/TSysUserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/com/app/Dao/TSysUserMapper.java" />
+        <option value="$PROJECT_DIR$/src/com/pojo/TSysUser.java" />
+        <option value="$PROJECT_DIR$/src/com/web/Controller/WebConfig.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/login.jsp" />
+        <option value="$PROJECT_DIR$/src/com/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/LoginAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/src/com/app/service/MenuService.java" />
+        <option value="$PROJECT_DIR$/resources/mybatis_generator.xml" />
+        <option value="$PROJECT_DIR$/src/com/app/Dao/TSysMenuMapper.java" />
+        <option value="$PROJECT_DIR$/src/com/pojo/TSysMenu.java" />
+        <option value="$PROJECT_DIR$/src/com/app/service/MenuService.java" />
+        <option value="$PROJECT_DIR$/resources/mapper/TSysMenuMapper.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/login.jsp" />
+        <option value="$PROJECT_DIR$/src/com/web/Controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/src/com/LoginAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/src/com/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/webFluxConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/web/Controller/INDEX.java" />
+        <option value="$PROJECT_DIR$/src/com/web/webFluxConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/webFluxApplication.java" />
+        <option value="$PROJECT_DIR$/src/com/main/webFluxApplication.java" />
+        <option value="$PROJECT_DIR$/../SSm_17/src/com/WebFluxFunctionApp.java" />
+        <option value="$PROJECT_DIR$/../SSm_17/src/com/web/Controller/WebConfig.java" />
+        <option value="$PROJECT_DIR$/../SSm_17/src/com/reactive/handler/PersonHandler.java" />
+        <option value="$PROJECT_DIR$/../SSm_17/src/com/main/WebFluxFunctionApp.java" />
+        <option value="$PROJECT_DIR$/../SSm_17/src/com/reactive/Controllers/INDEX.java" />
+        <option value="$PROJECT_DIR$/../SSm_17/src/com/reactive/Controllers/index.java" />
+        <option value="$PROJECT_DIR$/../SSm_17/src/com/pojo/TSysRole.java" />
+        <option value="$PROJECT_DIR$/../SSm_17/src/com/main/webFluxApplication.java" />
+        <option value="$PROJECT_DIR$/../SSm_17/src/com/reactive/Controllers/Index.java" />
+        <option value="$PROJECT_DIR$/../SSm_17/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/../SSm_17/src/com/reactive/webFluxConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="1" />
+    <option name="width" value="1378" />
+    <option name="height" value="692" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SSm_17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSm_17" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="DispatcherH&#9;PSI&#9;JAVA://org.springframework.web.reactive.DispatcherHandler&#10;Car&#9;null&#9;null" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SSm_17\src\com\web" />
+      <recent name="E:\SSm_17\src\com\web\Controller" />
+      <recent name="E:\SSm_17\resources" />
+      <recent name="E:\SSm_17\web\WEB-INF" />
+      <recent name="E:\SSm_17" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.webFluxApplication">
+    <configuration name="WebFluxFunctionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.main.WebFluxFunctionApp" />
+      <module name="SSm_17" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../SSm_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="webFluxApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_131\jre" />
+      <option name="MAIN_CLASS_NAME" value="com.main.webFluxApplication" />
+      <module name="SSm_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Tomcat 8.0.45" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.45" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="SSm_17:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_0_45_SSm_17" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55439" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SSm_17:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 8.0.45" />
+      <item itemvalue="Application.webFluxApplication" />
+      <item itemvalue="Application.WebFluxFunctionApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.webFluxApplication" />
+        <item itemvalue="Application.WebFluxFunctionApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7eca7cdb-c70f-48a5-989f-8a3a5cc43202" name="Default" comment="" />
+      <created>1547427894808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547427894808</updated>
+      <workItem from="1547427898694" duration="18276000" />
+      <workItem from="1547597936749" duration="12458000" />
+      <workItem from="1547624660204" duration="28891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="59625000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32730561" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" sideWeight="0.49834436" visible="true" weight="7.320644E-4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Translate" order="3" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3289256" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3254973" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.50165564" side_tool="true" visible="true" weight="7.320644E-4" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26647145" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289256" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.3289256" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初次创建Git" />
+    <option name="LAST_COMMIT_MESSAGE" value="初次创建Git" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../SSm_17/resources/mapper/TSysMenuMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/resources/mybatis_generator.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/app/Dao/TSysMenuMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/pojo/TSysMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4617">
+          <caret line="193" selection-start-line="193" selection-end-line="193" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5175#5176#0" expanded="true" />
+            <element signature="e#5206#5207#0" expanded="true" />
+            <element signature="e#5262#5263#0" expanded="true" />
+            <element signature="e#5302#5303#0" expanded="true" />
+            <element signature="e#5424#5425#0" expanded="true" />
+            <element signature="e#5470#5471#0" expanded="true" />
+            <element signature="e#5506#5507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/resources/mapper/TSysUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1863">
+          <caret line="69" column="74" lean-forward="true" selection-start-line="68" selection-start-column="3" selection-end-line="69" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/resources/mapper/TSysRoleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5ef6cbd2-b4dc-4240-bd0e-509047c78ea5/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/web/WEB-INF/error.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/web/IndexController.java" />
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/app/Dao/TSysRoleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="59" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/pojo/TSysUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="150" column="11" selection-start-line="150" selection-start-column="11" selection-end-line="150" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/app/service/TSysUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../SSm_17/spring-lib/spring-security-config-5.1.1.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../SSm_17/spring-lib/spring-security-config-5.1.1.RELEASE.jar!/org/springframework/security/config/annotation/AbstractSecurityBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../SSm_17/spring-lib/spring-security-config-5.1.1.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/EnableWebSecurity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../SSm_17/spring-lib/spring-security-web-5.1.1.RELEASE.jar!/org/springframework/security/web/context/AbstractSecurityWebApplicationInitializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../SSm_17/spring-lib/spring-security-config-5.1.1.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="70" column="33" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/web/WEB-INF/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5ef6cbd2-b4dc-4240-bd0e-509047c78ea5/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/resources/mybatis_generator.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5ef6cbd2-b4dc-4240-bd0e-509047c78ea5/schema/smbms/table/t_sys_menu">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/resources/mapper/TSysUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="811">
+          <caret line="69" column="74" selection-start-line="68" selection-start-column="3" selection-end-line="69" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/app/Dao/TSysUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="48" column="27" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/app/Dao/TSysMenuMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/pojo/TSysMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="214" column="33" selection-start-line="214" selection-start-column="33" selection-end-line="214" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5175#5176#0" expanded="true" />
+            <element signature="e#5206#5207#0" expanded="true" />
+            <element signature="e#5262#5263#0" expanded="true" />
+            <element signature="e#5302#5303#0" expanded="true" />
+            <element signature="e#5424#5425#0" expanded="true" />
+            <element signature="e#5470#5471#0" expanded="true" />
+            <element signature="e#5506#5507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/resources/mapper/TSysMenuMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/web/WEB-INF/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/web/WebInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/web/WebController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../SSm_17/spring-lib/spring-webflux-5.1.2.RELEASE.jar!/org/springframework/web/reactive/DispatcherHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/LoginAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="24" selection-start-line="24" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/SecurityWebApplicationInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/web/Controller/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/app/service/MenuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../SSm_17/spring-lib/spring-webflux-5.1.2.RELEASE.jar!/org/springframework/web/reactive/config/WebFluxConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/app/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/app/PropertiesConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../SSm_17/spring-lib/spring-webflux-5.1.2.RELEASE.jar!/org/springframework/web/reactive/function/server/ResourceHandlerFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1034">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../SSm_17/spring-lib/spring-webflux-5.1.2.RELEASE.jar!/org/springframework/web/reactive/function/server/HandlerFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/reactive/handler/PersonHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/pojo/TSysRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1026">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1286#1287#0" expanded="true" />
+            <element signature="e#1317#1318#0" expanded="true" />
+            <element signature="e#1608#1609#0" expanded="true" />
+            <element signature="e#1681#1682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/reactive/webFluxConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2030#2031#0" expanded="true" />
+            <element signature="e#2053#2054#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/web/Controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#983#984#0" expanded="true" />
+            <element signature="e#1054#1055#0" expanded="true" />
+            <element signature="e#1084#1085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/reactive/Controllers/Index.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1090#1091#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/main/webFluxApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSm_17/src/com/main/WebFluxFunctionApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SSm_17:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SSm_17</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>spring-lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
